@@ -2,7 +2,7 @@
 
 /**
  * print_binary - Prints the binary representation of a number
- *	using, shift and logical AND operators.
+ *	using shift and logical AND operators.
  *
  * @n: number to be printed.
  */
